@@ -1,0 +1,23 @@
+Business : {2, 3, 2}, 12
+Economy : {3, 4, 4}, 20
+*******************
+Booking Details
+Booking ID:7500
+Flight Number:a113
+
+Flight Details:[Flight-A113-Chennai-Kolkata]
+
+Class preffered:Economy Class
+Seat Number2d
+Price:1200
+*******************
+Booking Details
+Booking ID:5372
+Flight Number:a113
+
+Flight Details:[Flight-A113-Chennai-Kolkata]
+Meals not Added
+
+Class preffered:Business Class
+Seat Number2d
+Price:2200

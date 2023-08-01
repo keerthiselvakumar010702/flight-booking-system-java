@@ -1,0 +1,24 @@
+Business : {2, 3, 2}, 12
+Economy : {3, 4, 4}, 20
+*******************
+Booking Details
+Booking ID:0569
+Flight Number:a115
+
+Flight Details:[Flight-A115-Chennai-Pune]
+Meals not Added
+
+Class preffered:Economy Class
+Seat NumberEXIT
+Price:1200
+*******************
+Booking Details
+Booking ID:3149
+Flight Number:a115
+
+Flight Details:[Flight-A115-Chennai-Pune]
+Meals not Added
+
+Class preffered:Economy Class
+Seat Number2B
+Price:1000
